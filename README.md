@@ -89,8 +89,4 @@ Accuracy obtenue : **[À compléter]**
 
 Le projet démontre comment un outil AutoML permet de construire rapidement un modèle performant pour prédire la souscription d’un dépôt, utile pour optimiser les campagnes marketing.
 
----
 
-## 🚀 Auteur·e
-
-**[Ton prénom / pseudo]** — Étudiant·e en IA & Data (1ère année)  
